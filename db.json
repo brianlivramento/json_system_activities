@@ -1,0 +1,83 @@
+{
+	"categories": [
+		{
+			"categoryId": 1,
+			"categoryName": "Dangerous"
+		},
+		{
+			"categoryId": 2,
+			"categoryName": "Homicidal"
+		},
+		{
+			"categoryId": 3,
+			"categoryName": "Suicidal"
+		},
+		{
+			"categoryId": 4,
+			"categoryName": "Nonsense"
+		},
+		{
+			"categoryId": 5,
+			"categoryName": "Dangerous"
+		}
+	],
+	"activities": [
+		{
+			"activityId": 1,
+			"activityName": "Run with sharp objects.",
+			"categoryId": 1
+		},
+		{
+			"activityId": 2,
+			"activityName": "Riding a bicycle between two trucks.",
+			"categoryId": 1
+		},
+		{
+			"activityId": 3,
+			"activityName": "Jump from the 18th floor of a skyscraper.",
+			"categoryId": 3
+		},
+		{
+			"activityId": 4,
+			"activityName": "Access Youtube from work.",
+			"categoryId": 4
+		},
+		{
+			"activityId": 5,
+			"activityName": "Wash the sidewalk with water spouting for more than 3 hours.",
+			"categoryId": 4
+		},
+		{
+			"activityId": 6,
+			"activityName": "Drink and sleep while driving.",
+			"categoryId": 2
+		}
+	],
+	"comments":  [
+		{
+			"commentId": 1,
+			"commentDescription": "My predilect.",
+			"activityId": 1
+		},
+		{
+			"commentId": 2,
+			"commentDescription": "Nice. I've done this.",
+			"activityId": 2
+		},
+		{
+			"commentId": 3,
+			"commentDescription": "I already died doing exactly the same!",
+			"activityId": 3
+		},
+		{
+			"commentId": 4,
+			"commentDescription": "Cool. This one knows how to enjoy!",
+			"activityId": 4
+		},
+		{
+			"commentId": 5,
+			"commentDescription": "I pay to see someone doing this on my front..",
+			"activityId": 5
+		}
+	]
+}
